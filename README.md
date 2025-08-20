@@ -18,23 +18,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 主站:
-https://fenghuanghsin.github.io/
-https://github.com/fenghuanghsin/fenghuanghsin.github.io
-https://github.com/fenghuanghsin/sourcecodeforgithubio
 
-/index.xml
-/sitemap.xml
-/index.json
+- https://fenghuanghsin.github.io/
+
+- https://github.com/fenghuanghsin/fenghuanghsin.github.io
+
+- https://github.com/fenghuanghsin/sourcecodeforgithubio
+
+- /index.xml
+
+- /sitemap.xml
+
+- /index.json
 
 github:
-anvithks/hugo-embed-pdf-shortcode
-CaiJimmy/hugo-theme-stack
+- anvithks/hugo-embed-pdf-shortcode
+- CaiJimmy/hugo-theme-stack
 
 測試站:
-設定檔保存
+- 設定檔保存
 
 localhost:
-http://localhost:1313/
+- http://localhost:1313/
 
 [params.assets]
 disableFingerprinting = true
