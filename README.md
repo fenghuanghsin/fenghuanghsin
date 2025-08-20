@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-星空下微風輕拂黃光閃耀的世界
-2025年至2038年紀錄
 主站:
 https://fenghuanghsin.github.io/
 https://github.com/fenghuanghsin/fenghuanghsin.github.io
