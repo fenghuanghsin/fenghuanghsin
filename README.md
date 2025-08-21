@@ -71,7 +71,8 @@ codeberg:
 - https://codeberg.org/fenghuanghsin/pages
 
 vercel:
-- 不適配中文
+- https://fenghuanghsin-github-io.vercel.app/
+- https://github.com/fenghuanghsin/fenghuanghsin.github.io
 
 bitbucket:
 - 擱置
